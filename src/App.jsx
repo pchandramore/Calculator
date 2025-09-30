@@ -1,5 +1,6 @@
 import React from 'react';
-import Calculator from './calculator';
+import Calculator from './components/Calculator'; 
+
 
 function App() {
   return (
